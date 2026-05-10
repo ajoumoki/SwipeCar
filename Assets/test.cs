@@ -6,7 +6,7 @@ using UnityEngine;
 public class test : MonoBehaviour
 {
     // Start is called before the first frame update
-    GameObject flag;
+    /* GameObject flag;
     void Start()
     {
         flag = GameObject.Find("flag");
@@ -20,5 +20,5 @@ public class test : MonoBehaviour
         {
             transform.position = flag.transform.position;
         }
-    }
+    } */
 }
